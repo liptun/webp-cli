@@ -1,2 +1,2 @@
 @echo off
-node %~dp0webp.js %*
+node %~dp0webp.js %CD% %*
