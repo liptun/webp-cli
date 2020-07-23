@@ -1,0 +1,14 @@
+{
+  "name": "webp-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "webp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "webp-converter": "^2.2.8"
+  }
+}
